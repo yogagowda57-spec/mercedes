@@ -1,0 +1,35 @@
+.home{
+    background-image:url("https://wallpapercave.com/wp/wp5204683.jpg");
+    background-size:cover;
+    width:100vw;
+   height:100vh;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.para {
+    color: white;
+    font-family: caveat;
+    font-weight: 500px;
+    font-style: italic;
+    text-align: center;
+    font-size: 50px;
+}
+.button{
+    border-radius:15px;
+    background-color: rgb(67, 65, 61);
+    color:rgb(216, 212, 212);
+    text-align:center;
+    border-color:white;
+    padding:5px;
+    margin:10px;
+    font-size:25px;
+}
+.image{
+    height:60vh;
+    width:40vw;
+    padding:5px
+}
+.bg{
+    background-color: black;
+}
